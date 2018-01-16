@@ -17,3 +17,5 @@ scripts should be defined in [config.json](config.json). Here's an example of ho
 ```
 
 *Warning*: hex values are not available in json, so all numbers, both in decimal and hex representations, should be given as strings.
+
+**Oi!** I piggybacked this project for my hypervisor. Check it out at [jinet-vm/vmm](https://github.com/jinet-vm/vmm)
